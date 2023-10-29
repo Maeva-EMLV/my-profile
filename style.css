@@ -1,0 +1,37 @@
+body {
+background-color: rgb(139, 87, 92);
+font-family:'Lora', serif;
+font-size:18px;
+color: rgb(232, 206, 228);
+}
+
+h1 {
+color: rgb(212, 175, 185);
+font-family: 'Roboto', sans-serif;
+font-weight:800
+font-size:40px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(245, 204, 232);
+    font-family:'Roboto', sans-serif;
+}
+a:hover {
+    color:rgb(200, 128, 183);
+}
+
+h2 {
+	color: rgb(53, 30, 41);
+	font-family:'Lora', serif;
+	font-size:28px;
+}
+
+/* Custom design with class */
+
+.container {
+width: 700px;
+margin: 40px auto; 
+text-align: center
+}
+
